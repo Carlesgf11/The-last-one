@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - RazorHit
+  - EnemyHit
+  - Climb
+  - ToTwo
+  - ToDenA
+  - ToOne
+  - ToOneOne
+  - ToOneTwo
+  - ToOneThree
+  - ToOneOne_
+  - ToOneTwo_
+  - ToOneThree_
+  - ToTwoTwo
+  - ToDenB
+  - ToEnd
+  - Bullet
+  - Molotov
+  - Item
+  - Barril
+  - GoTo1.1
+  - GoToGameZone
+  - Enemy
+  - CraftTable
+  - MetalFence
+  - ToHole
+  - End
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Grounded
+  - Player
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2361252147
+    locked: 0
